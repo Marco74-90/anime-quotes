@@ -6,7 +6,7 @@
       "anime": "One Punch Man",
       "character": "Saitama",
       "quote": "If you really want to be strong... Stop caring about what your surrounding thinks of you!",
-      "image": "",
+      "image": "https://static.zerochan.net/One.Punch.Man.full.2036022.jpg",
       "likes": 0
     },
     {
@@ -14,7 +14,7 @@
       "anime": "One Punch Man",
       "character": "Saitama",
       "quote": "Prophecies don't ever come true.",
-      "image": "",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUVFRgVFhYVEhgYFRgYFRgVGBgZGBgSHBgZGhgVGBgcIS4lHB4rHxgYJjgmKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QHhISHzErJCE0NDE0NDQ0MTQ0NDQ0NjY2NDQxNDQ0NDQ0NDE0NDQ0NDQ0NDQxNDQ0MTQ0NDQ0NDQ0NP/AABEIAKgBLAMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAACAwABBAUGB//EADoQAAICAAQEBAUBBgYCAwAAAAECABEDEiExBEFRYQUicYETMpGhwbFCUmJy0eEUI4KS8PGywgZDg//EABkBAQADAQEAAAAAAAAAAAAAAAABAgMEBf/EACYRAAICAQMEAgIDAAAAAAAAAAABAhEDEiExBDJBUWFxIoETFDP/2gAMAwEAAhEDEQA/AOskLNBlqs0ICSOEpBLgBCEsFY5QIAaCGWEWTFs0AazCAWiiZAIA1RGAwEWFACzQswi5RgB55ecRVQoAzMJeYTG+MbyqLI+Yn5V9ep7fpIMG/mJc99vZdplPLGOxrDDKW/g0jGT95fqIYcHajEqgGwA9JT8MhNlRfWqb6jWZf2F6NX03yNzCNRhMrcG4GZLI6PZFdn3HvftKwcW+RBGhB3B7/wBZvGcZcGEoSjybjUWzCLLxbSxQfnEWxEQpjBJAYIhZhMxMJDAHFoLPKMArAHK0skRSCWIBZaEKi3EWLEA05hFu4g3KqALaXYgtF5jAM6NGhhMlww8A0y7mdXMsvANGeEmJEAxiiAOD3JFqYy4BaxiiKBjVgBXALwqi/hwAs0itJllBYAwxGO50VfmY6dlHzN7fqQOcaYvhxbu3TKg+mYn3zD/bM8ktMWzTHHVJIZhYQUUP7k8yTzMYFhhYapODk9DgWEjFSGqQwsmirZ0uENoOwo+05fifDUbUagWO681/WpowMUrt7iTFYsbM0Uq3MnG7TOQGhxL6EjoxHten2qTPOxO1ZxtU6GBYwLEh4ZfSSQEcORkqUuLJ8S4BYlwbkDQCzBIiy8AtANCynIiVeBi4kkDM8ItMeaEcSAOJgQBiSQDlLjRgxROemLLzyCp1BiCQPc5geNXFgHQVo4NMGE80o0FjXhkGMmRHjA2skizRcIPEAys2sEmxHEnxRMbS6gGsYgMEuJkDGWxgDHxJo8OHkvq737MR+gE5zGdDwo3hjn53/wDNj+Zhn7TfB3GwCMVYpi3IA+rV+gMtGe9VQDqGJP0yzlSOtseBLAkEpy3IA+pI/BgqwgJdRYL9E+p/pGyxBxuOYB29v/ETMXgcdiXivr+1VfygKfuIl2nbDtRxT7maPixoxRMAeQtLFTY2LKXGmXPIupgGo4xlrjTK9yg0A2h5HMzI8INcANTLeKuXmgFYsi7SsRrig1QBplZzFh4WaAeeS4dwcNYzLIKhEQ0EEQkSAaMJpqQzNgqI9W1gsOTtDyxYetp3OB4RaDHUmRKVBKzJw/CueUePDj1nSGkhaZubLqJy8fgWA01mLEzLoZ3y0xcfw2cabxHJ7DickPITOnw/AKNW1l8TwYI8uhl9asjS6ORjMQugBPIHY9jOxwgrNoAc2oG15Vuvez7zOnC5RmbWiD7A6/a4HBY7f4jGQ7UjJ/KFAJHvOfM7ex04FSO3wHwyWz1mvy5/lK0Nr0u83eM41MJUbKRn1KBCLLH5VKroV2FkaDnzmOEortKKdKqLvG3K7LGKMxXmFDexJH4jMLJnHxPky6X8ge/2+1bXpoeonPwnviHHTDUfcn8zoCVi6ZMo2qNmIvDaksmuoyEBgKApMnm5XWu5mTCuhd+9XXK60uquWIvi8TIjsASQpIA3LVoB3JqXlLUUjDT5OPTYmVrBQ26AVozYhF3VklWaxsKHSyPEcAw1EZwh+GuHgtWYBncA/LmZsqd/mb/bN/xJeMnFGc4ps4AwjdTbgeHE/NpNTKimzpDxeKCrfKaPJ6MlH2ZX8NoaGYWTLOpw/iCvB4jBRuYERn7Dj6Oc1nYSjhkbidXCw1QWNYB4lHOU6GT/ACbjQcrNGXDxOFIOkb/hiBe8vqRTSxBMWTrDcxV9ZYEZoBaRzF7mANBg5u8jOBM5QyCpiA7TQo6xaxynnAKAHSMVdOkgI3qQAnXeAFhpGZhC4fh3ceVTcJvDnG6mRaJobweAznTbrPSYK5VA6TN4fh5EAqjzjneZSlZrGNBs8UcSZ+IYnY1OVxuNip5gbA3mZc7hxJnxeORdzPPp48eYiOM8TVxWXXrGlkWj0y8UrjytMWH4oEJVzdHeeYXiWGxIlZnY9e5l1GyrkesPjCdYnhvE8MuASARojHmp3Qn1o+3184nCuef0j04VBoQWMl4rJjlcWe2EITB4ZxRdab51oN3HJvf9QZvE5WmnTO1SUlaORxaYyYxfDFhwoOlixQo9P7zuCJdyNlLehA/UxywGEJg8Y4ooq5VzsW0F1ovmzHsGy/Wb5weP4jM5YahRlX8kep/QTXHHVIxyS0o4q/FZy5PnJtj1P/KHtNKNjDW7mlCN61jilrdVOnRE5dTM7h3XzeXpEHhGIouamn4h0B2incg6bSVFIq5MWnAaWHqKfCYftGbXs9peIwqNKFsx4PFYid76wXbEzZ6j2YEi9o4uDpI0InUyL4g5FZdaisHisUbix0jldV21iXIPORoROplYmMhN0b5iOw3RrA0PeZ0Yb85ErciTT9kWiPUEKN7jDlI0BEzptUsnZVqgsgJ3l/AftKBo+sp8SjWsEGNAal4coi65doag7VAOh4d4YXs3Q6ztcP4WidT6xvALlw1FVp941nmMpOzaMVQSqBoBUp3qJbFinxpm2Xojccou/LXWKHHI2zCczxTxFApX5ienKec+KeX2kpWQ5Uewx+KVRZIE4PinimYZUOnMzCMF2+YmbMDCUD5d+ZmkcZSUzJhcIzCyaEaOEUHcmamsCq0Mq6IscpooopYlcFekMDlVCORL11imsN7yQMAOwuEiHfvGMSQCL7gS/mOQHU6kjdV5k9+Q/sZEpKKtkWLbjSjAgHMNLB05WD19P0nf8L8UTGUfstVlTv6jqJ5jxAgPlGgVQB+v5ieHOg7E17E1OKUte5t0s3JtH0BZHxFUWxCgbkmh9Z5LC8TxgKDn3Ck/Ui4vExWc27Fzys7eg2HtIo7aOl4r4wWGTDsKSAW2La6gA7Cuf/CniVKkX8rC1b9Qe+o9fac/ERiAQCQG8x5Cwa+9TtcQhbBBAsqqsO9DUe4se8LJokvT5OHqJVNL4MwdeR/oTDd2rtMDAA6miDqvONVwRYJ32nenZmPC9d+kWUJ1rQdYBxL2O28AM1Ek+kAcmIddjLXz6HyDlML2QKuEmbfXSAb3WwFsGucSTTbXMx4ktoRUWX5WYBt/xN8otWB0G9zOHrYXGLjAWK94BGq9PeT4tiga6wcQECxt1uZmxSARQ9RBU1I96Zr7CQgjlM+BfSafik0K0G57QCqBHcSgp6yOQayk763tBxKvQwDucF4MigFxmbn0ms8FhiiFGm0Y2JM3EcYiiywE5nJs3UUjS7zh+L8TkFhyD0uc/j/GWZqQkDtuZzHR31LAep1loxbIckjdg+MOgr5h3gY3imI+g8oPT+sRg8OAL3PfrGMhqzRJOgHKXUF5KuTEYOGCfMf+41cNVOojMJK05xv0J7/pL0ilkvSxZ6+ksLbAWarUSLhkhhrtyhpiZQASD101kkls4qtR0iwxvr0uU7m7sEcoWG3mB5AaiANKsBd2B05SmxQNiWvYVZ9K5y8MsxKpXKzXlHr1Pb/udHA4ZV13bmx39ug7Cc+bqI49uWUlJIz4fDMxtj8MfuqdT6nl7fWN4NALIoFtQOfw9Qp99T6sY3GOy/vHLp0o2fpc5vDYgfiSw2CEKR+6tD6WT9p58pyyW2zNybMfFZnxsq6s+IVUfX7CrPYTq43h6o+CjahlVGI0vEAot+hl+CYF8Q7fuBh/qZtCPZW+s6fjnDl8IlfmQh19V1I+lzePCR39LDTHV7Mz+Am/K4r+IEH7R2B4F++99lH5M6vD4mZFb95Q31FwcXHp0QbtZPZAPyaEtZ1WZPFeHVcAhQFC0aHrUvCWlA6KB9o/xRbwyOrIPYutxHxFzZbGarrnXWphm8HB1XevoxY3CK4o6MhyhhuBuAf3hRGk5zYboaIAvatj6H8Ttkeb1H3H/f2lYmGGFEAg7gxi6iUHXKOdSo4q1ROx6CJBsVz68pr4jgWSynmWtj8w/qPv6zEX02sdZ6cMkZq4l07IDR5mDmKnS9eUMsBqNSZMXFPMDt1lyweKjVmPtAdNjehEBMbLqDy59YOQZbvU7V+IKjVRb0PKQBNiSCOsXhHQDbXU9e1ReKihtDqevSAPKaXft1iMR+wAM0YSZWB0b1k4hgaWhXYwDOhIGnuYSvmGn/DHDhmGxCrzF/iIxLVq0F6ioBFxCq6gay8rHUAVHtloA+ZtyDtEYmK1+Wq5QDX4l4qGBRPNe5/pOSRZAJOvvU1HCKgUoA59feTKQLOU1oAOQlIwSLuTZmODlNKL6nnG6GgRZ37yK5AIJq+Z/ENHVburqhLlBIF9ugh/D1IY3QsdNYNnNoAewhYuKWOxHK4ATNsDVbWOsiL3AF+/pFo/eGNdYAZcZtzR2qUHBFkXrQ9OpgumXQHf6SYKijeU9u3aAGqe4PfnDzhfKBZI68+kzHsa7R/BIS6DSru+emv6gSs5aYt+g3SO1w+EEUL7k9TzMHieLTDy52VczBVzGrY7KO8K/P8A6fzr+J53x7ismPgsq8OazefGxAFWlvTQ5DfMCzQE8aKeSW5ilbOh4g2KScqMoNoGGpyWM1VtmI36AVqbCvDEK4qiiNGBFVS1e3Swv1nW4LjExVDIyuu1qbGYbi4eEBbHTNdE/wAP7PtX3uWUquNDyafDsEqGdSDncsQR/pFMNtr2O835uTCr35j6wcJf8pHQEjIudQNQQoBOXexVEdvqSOCLBBB5idOlx2PVwtaUl4GYKBVCjYAAegFCZcJKxXdr2CoNSctCzptr+ZrUwhBqZePY5QKNZ1s6db/E8rh8SQ4f+LMfQ7j6aT1vGKSljrV99Z4uQ1vueZ1cvyVHpsdqGb93X2G/2uHOfwL4gUB1zLWh/aroV5j7+s14T0lmzlB2BJNabbkmtpySjWxitwP8dhjFGBmHxCpfKNSFBAtump0veYfFeGyDOppSfOvIE/tDpc4Scdjtxjsi8S6hcM/DTCXCtM2IKf4xs6Csy1dVplnscbDzoQRuux3B3APvN43ilFrzyW4PMo4v+sJ0LEk6RfEkXl2H57yIdMtE87M9UuCBcnwzVF66COAA6C9tIp0azpdbwCsvJTmB37RzYBJGuY99NBFfAI11TT69pDYFhgb07+8A1EHQAAkc/wARWcMxOTX7QVQ16i/+o5gcoagKNGucAWzE2NFGxF2YBXLzVqsanWuUcuAoNi9YjEwyb01MAi05qgPLr3MmHgLXOVhgoPMATenWB8UHXXv6wBuCvNzXrB4hFJsE30GlxuILNenKZkZTbGxVgdIAGDifw+5hNlZjp7jl3jMEsUY2DQ0DfeAisVGyjmevaAC6r+y2v5hu2UUTZ0/vUJ8OhmYaDkOsPicJTlYmiQNDygCEoGwPrGM2guq5ldvSWMI60LraW5CqFqyT5tRd9oBWXQgajlFoq0K+a/tNLBlo5Rsd+QgYGKh1oK11t94AplF7Gq+81+HWGzHXKh25aj+hiGfUqhzDTXvN3B8MBn/iAHroT/7TDqZVjfyRPg1lvOB/Af1WZcbwfBNZEXDZWDK6IgIYWNdKIIJBB6yfGt8Jv30YfVQ34nQnk241RimYP8HjFkY49KpsqqBQw6MSTp6VNfEihn2KiyeqDVgeul+8cBKdQQQdiCD6VJ1NtWSd7AwTlR0OUlFsH5WGUVY5H+IfeqlnAVj5kKMd2RtCe5Ugn3Ey8BxbkKgC6KBrfITbgcUSxRlysO9gz0I5oS2/R3fxSiGOEXq32/pLGAgOoLdjZ+20z4XH5myhNdf2um/KacHiczFCCrD3kxyY3x9Fmsi5M3ijHILGUZhQ5nQ9Np5/h+DQkvVksWF7ak0QPvOl4/jtmVLGlsv8xXKL93ESiUABsBQ9Jy553Lb6OTJGpbhSwJAJc5ihi43w5XYOHxMJwuXNhtRK3dMCCDre40s9Zfh3AKhZsz4jPQZncsSqk5aGgXc7AbzW5oE9ISLQA6CpfU6oHlcbD87g1QdgPQMagN2uu/XtN/imF/mNlIBNORXIgCx7gzKL2NA1YHfvPYxyuCfwargHDGnVoOLhsNe/WOcjRtiNxcpnDkm9F5f2EuQJRmFE6jvrBSiSTpWtbXG5s2o3B2PSHkJFmrr0I7QAcJixFED+Ewy5Bpl/IgqAvmu/685a4tEGyR+7W8Aoqb7Ecot0NDLv+ojitjQUD9olnybE3XuIAtWYEk1vpe8rOvMkHmIxm2NZueu9ysiNqSb56bHpAKxGYAtuR94lAFqzmO5HK5qxifKMuYDY/mI4bEGY+XM178oAAObSwCT9JZ4dgw1J9I3LV0FU9fWMwkdgTdj+HTaAZ3OTRhmB+lw3xAxrYV9JHY2LoLyzHUGNfDBGqE1tl5iAEjgISRmAIMvERLDDS9VEpnTIQSQOnf1l59AQ+gHMWR2gsUmIgoN8wN0dtYnOrvyAHIDc9ZbYYtiNQxG2/wBITuVGg25ioKl4OEp1F6HYaVOlwA8gJ1uzfUXQP0AnPwDmLAZhn8pHLXcg9QoJ9p2VWtBoOXpODrZbKP7KTfg4HxcrKD/9eMR/+bNv9A49p6JVnmvFcLLiMeR3/lIu/Y3956LgcTOit1Gv8w0P3BnLkj+KaM0NCwccUjH+Fv0MeFlOmh9CJlFblkjVwasHOUZiM2hNaXOjgcM2cu9WRQA2AhYPCoj2GN0bBI585pnbhw0vy8Oz0MmW3t6o4vD2MWwMxzNpt15zo8Nw5DF2rMeQ5D/gg8PwZV82YHe9Os2mMGFpXLw7SJy5U3S9Uea8VUtjoasW+v8AJkFfUqfaBxWOuGjMzIgUbuwVb5Wx21mzxDCyvhgkE5MUmu7YUwcfw7uhVH+GepRXBHQq2/2mElUqkcmV3I5//wAY8Q+OjscX4xL5tMNsNUVvlRcw84GU6766ztgTxvgeHj8L/lunG8QyAogUYY4c4YY5GUkijVXmNjUT1XAPiHDVsZUR6JZVYso9z2/7O8nJCpWuDNoZit5lTmTmP8q0b/3FfrL4Z8wJ/jYD0DFR+l+85uBxdvjYp2RAqj2LH6+X3E6XA4eXDRd6UX61rKyjSIW5zPGhlcMBZZCD6Kb/APf7TjphK4Ov1NkTvf8AyDDtFOYpTi2H7rAivqVnGw8NCCuHZbmSN6no9NK8a+DRcCvhlhlAuuY/WXjuARQo17H1gMjigSarSv6zbhYdoAzBSQaoalZ0FjDiMBQv1rrBcgms9Hv/AGmrH4ZFGmXE1HUEesXilFCn4f673BUH/CsfMrWAL94WGparNN0rl1hDFLEEBQSdMpquzCOfiM6+YFHAoHkYAPD4DICXfS/lrU9wZPKxU567sLPYESOuKygNl5et8pqThlRbxCt6aDeutc4LCOMwcPcliBzXYGFh8XhAVTN3qAMVRYzHKx0FA6d5CTyyV6CCpmQK7DVwAOXMwi5D5cuRDpdjXvJJAAxXT5PMSDZOw+spKs0rZa2BrXoJckAEL8QnyFQougddJbcTpqtcq1GkkkAIM3w7ygdL1uMw8TMpKqNAPKDrfUSSQSgld2AsBBdajWZ8d2RqA5ajrLkgk38EdyRoq8gScx1Om9gAfUzn+FeMB8bEDOzgsq4argYqqnO2YroTa3dDTpJJPPypSnKzF8s6Pi2BYDjlofTkfr+sPwDRGXo9j0KjT7GSSc7/AMyi5OuJbVJJM48oujrLwjfEz2Ksnv6TazACzoOcqSelCChGVHY25SVnFbiXskMw1urM7aPYB6i5Uk4uiySk5Wb9TFJKji+LIRjo3I4bgeubD0iZJJGfabo8/J3EEw+McTkToDZb+UCzJJK4+5Gb4OXhN/lon7WJiqWroDnPtek7HjHHtg4RZVVm0VczqiKToGd2IpbrQWTYAkkm0u4mJT4wxMDOCj+QMcjZ0LrRIVuYzKROEqPbOrFdTnrQe0kk6ul4f2aRGYfFMia0xJ8vWusRgm6Yhmphr+JJJ1Fi+KwgrkA0GNgA37xiF2DBzlAG5H6SSQDHw7qpYqrORrrofWOx2xHAOUC6sjWSSCo/AwHJtjWo1uL47EDkghi4NA8j6SSQAVwSrBWpbHtr1hnw4dW9hpJJAP/Z",
       "likes": 0
     },
     { 
@@ -22,7 +22,7 @@
       "anime": "One Punch Man",
       "character": "Saitama",
       "quote": "Heroes and the police don't do their jobs because someone says \"please\". Right?",
-      "image": "",
+      "image": "https://i.redd.it/p7cnugg9az601.jpg",
       "likes": 0
     },
     {
@@ -30,7 +30,7 @@
       "anime": "One Punch Man",
       "character": "Saitama",
       "quote": "Who decides limits? And based on what? You said you worked hard? Well, maybe you need to work a little harder. Is that really the limit of your strength? Could the you of tomorrow beat you today? Instead of giving in, move forward.",
-      "image": "",
+      "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/06/Saitama-in-a-crater-from-One-Punch-Man.jpg",
       "likes": 0
     },
     {
@@ -38,7 +38,7 @@
       "anime": "One Punch Man",
       "character": "Saitama",
       "quote": "You may be able to get stronger with simply the right attitude. In other words, train your spirit before worrying about strength through power and technology.",
-      "image": "",
+      "image": "https://static.wikia.nocookie.net/characterprofile/images/2/27/Saitama.png/revision/latest?cb=20160115153958",
       "likes": 0
     },
     {
@@ -46,7 +46,7 @@
       "anime": "One Punch Man",
       "character": "Saitama",
       "quote": "In exchange for gaining strength, have I lost something more important as a human being? Emotions used to swirl within me when I fought. Fear, impatience, anger... But now... Day after day, after one punch I go home unharmed and wash my gloves.",
-      "image": "",
+      "image": "https://i.ytimg.com/vi/vfWEvYU-3nw/maxresdefault.jpg",
       "likes": 0
     },
     {
@@ -54,7 +54,7 @@
       "anime": "One Punch Man",
       "character": "Saitama",
       "quote": "Is that really... the limit to your power? Do you honestly think that you won't get any stronger for the rest of your life? Instead of sitting around frustrated, it's better to keep on moving forward.",
-      "image": "",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/718LKeUqGlL._SL1500_.jpg",
       "likes": 0
     },
     {
@@ -62,7 +62,7 @@
       "anime": "One Punch Man",
       "character": "Saitama",
       "quote": "I'm not a hero because I want your approval. I do it because I want to!",
-      "image":  "",
+      "image":  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8wYLaUUVuz1_L0SoEt9jfaKUPUjE9ZB5HvuUOeiwr6b3w2Bi9b-RAgxKBqD5xb0UOxSk&usqp=CAU",
       "likes": 0
     },
     {
@@ -70,7 +70,7 @@
       "anime": "One Punch Man",
       "character": "Saitama",
       "quote": "Human beings are strong because we have the ability to change ourselves.",
-      "image": "",
+      "image": "https://pm1.narvii.com/5898/4feb67b1f519591f4c4177d4edd430ef22466982_hq.jpg",
       "likes": 0
     },
     {
@@ -78,7 +78,7 @@
       "anime": "One Punch Man",
       "character": "Saitama",
       "quote": "I'll leave tomorrow's problems to tomorrow's me.",
-      "image": "",
+      "image": "https://c4.wallpaperflare.com/wallpaper/889/7/648/one-punch-man-saitama-genos-fubuki-sonic-one-punch-man-hd-wallpaper-preview.jpg",
       "likes": 0
     }
   ]
