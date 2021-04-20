@@ -1,5 +1,6 @@
-
-[
+{ 
+    "quotes":
+  [
     {
       "id": 1,
       "anime": "One Punch Man",
@@ -81,3 +82,4 @@
       "likes": 0
     }
   ]
+}
